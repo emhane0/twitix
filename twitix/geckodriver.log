@@ -1,0 +1,38 @@
+1657585429916	geckodriver	INFO	Listening on 127.0.0.1:28815
+1657585432992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "28816" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ethan\\AppData\\Local\\Temp\\rust_mozprofileP3tSha"
+1657585433311	Marionette	INFO	Marionette enabled
+1657585433315	Marionette	INFO	Listening on port 28825
+WebDriver BiDi listening on ws://localhost:28816
+Read port: 28825
+1657585433437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ethan\\AppData\\Local\\Temp\\rust_mozprofileP3tSha\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:28816/devtools/browser/779b8c39-95e5-45bc-8de5-19e58744686a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 6523 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.proxysite.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.proxysite.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.proxysite.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://eu2.proxysite.com/process.php?d=adOni1POtOKsjJSQSlUZjqWw7HlhGq2HlrJvMUJrLfjAp8O62GjrTMfhDTHLFCrn23xT%2ByBzfKYbw%2F7g2JcWsd4TjJtS1U2QOyETNwe3&b=1, line 2: SyntaxError: expected expression, got ','
+JavaScript error: https://eu2.proxysite.com/process.php?d=adOni1POtOKsjJSQSlUZjqWw7HlhGr%2BQlKlzPBl6d%2FPJqs%2BlhGT%2FFJ3STQ%3D%3D&b=1&f=norefer, line 337: Error: Requiring unknown module "12845057".
+1657585679868	Marionette	INFO	Stopped listening on port 28825
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657586103301	geckodriver	INFO	Listening on 127.0.0.1:29222
+1657586707348	geckodriver	INFO	Listening on 127.0.0.1:29454
+1657586710413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "29455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ethan\\AppData\\Local\\Temp\\rust_mozprofilenfcS1d"
+1657586710733	Marionette	INFO	Marionette enabled
+1657586710738	Marionette	INFO	Listening on port 29464
+Read port: 29464
+WebDriver BiDi listening on ws://localhost:29455
+1657586710854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ethan\\AppData\\Local\\Temp\\rust_mozprofilenfcS1d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:29455/devtools/browser/a96d48ca-3e4b-4ec7-897a-97b1a68261d1
+1657586717473	Marionette	INFO	Stopped listening on port 29464
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
